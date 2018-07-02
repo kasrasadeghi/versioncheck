@@ -1,0 +1,9 @@
+{
+	"name": "versioncheck",
+	"authors": [
+		"Kasra Sadeghi"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, Kasra Sadeghi",
+	"license": "proprietary"
+}

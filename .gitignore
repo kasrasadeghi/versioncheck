@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+versioncheck.so
+versioncheck.dylib
+versioncheck.dll
+versioncheck.a
+versioncheck.lib
+versioncheck-test-*
+*.exe
+*.o
+*.obj
+*.lst
+versioncheck
